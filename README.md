@@ -1,3 +1,4 @@
+![Screenshot (180)](https://github.com/mansi-guptaa/IPL-Dashboard/assets/161967718/b7a37e4c-3c7e-4284-b8d4-f0d6ceba65ba)
 # IPL Live Dashboard
 
 ### Power BI Dashboard Link: [https://app.powerbi.com/view?r=eyJrIjoiZTNjMWUxMWUtM2U3NS00ZGUyLWFhMTctYjZhNWZlNGFlOGI4IiwidCI6IjM1MWJiYTBmLTBhYWQtNDYzZC05ZjM3LTJlZThkZmZiMGIwMCJ9]
