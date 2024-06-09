@@ -1,9 +1,15 @@
-![Screenshot (180)](https://github.com/mansi-guptaa/IPL-Dashboard/assets/161967718/b7a37e4c-3c7e-4284-b8d4-f0d6ceba65ba)
+
 
 #  Live IPL Dashboard 
 ## Overview
 
 This project involves the creation of a live IPL (Indian Premier League) dashboard using Power BI. The dashboard integrates real-time data through API calls and offers various interactive features and visualizations to provide insights into the IPL season.
+
+## Screenshots
+![Homepage Screenshot](_screenshots/HomePage.png)
+![LiveScoreBoard Screenshot](_screenshots/LiveScoreBoard.png)
+![PointsTable Screenshot](_screenshots/PointsTable.png)
+
 
 ## Features
 
