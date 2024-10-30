@@ -1,15 +1,12 @@
 
 
 #  Live IPL Dashboard 
-## Overview
-
-This project involves the creation of a live IPL (Indian Premier League) dashboard using Power BI. The dashboard integrates real-time data through API calls and offers various interactive features and visualizations to provide insights into the IPL season.
-
-## Screenshots
 ![Homepage Screenshot](_screenshots/HomePage.png)
 ![LiveScoreBoard Screenshot](_screenshots/LiveScoreBoard.png)
 ![PointsTable Screenshot](_screenshots/PointsTable.png)
+## Overview
 
+This project involves the creation of a live IPL (Indian Premier League) dashboard using Power BI. The dashboard integrates real-time data through API calls and offers various interactive features and visualizations to provide insights into the IPL season.
 
 ## Features
 
